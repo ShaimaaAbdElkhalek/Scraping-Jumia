@@ -17,7 +17,7 @@ This project demonstrates how to scrape product data from Jumia's iPhone section
 
 The script in this section demonstrates how to extract data from a specified number of pages on Jumia.
 
-```m
+
 let
     // Number of pages to retrieve
     PageCount = 2, // Adjust to fetch more or fewer pages
@@ -50,7 +50,7 @@ let
     CombinedDataResult = Table.Combine(PagesData)
 in
     CombinedDataResult
-```m
+
 
 
 
