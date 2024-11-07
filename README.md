@@ -50,6 +50,8 @@ let
     CombinedDataResult = Table.Combine(PagesData)
 in
     CombinedDataResult
+```m
+
 
 
 ### Feel free to edit or add more sections as needed for your GitHub repository.
